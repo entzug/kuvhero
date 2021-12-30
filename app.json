@@ -1,6 +1,6 @@
 {
     "name": "kuhero",
-    "description": "v2ray websocket proxy on heroku",
+    "description": "v2ray websocket on heroku",
     "keywords": ["v2ray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
